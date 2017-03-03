@@ -10,7 +10,11 @@ You can access your git repository url by clicking on the arrow beside edit butt
 
 ## GitBook Editor
 
-Download end install from https://www.gitbook.com/editor
+Download end install [GitBook Editor](https://www.gitbook.com/editor).
+
+You'll be able to connect to your GitBook account and the editor will import all your books. You can also create a new book locally that you be saved on your home and you can further set a git remote repository.
+
+![](/assets/gitbook-editor.png)
 
 ## Gitbook-CLI
 
