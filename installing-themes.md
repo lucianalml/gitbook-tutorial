@@ -10,5 +10,12 @@ book.json
 }
 ```
 
+Run the command
+
+```
+gitbook install
+gitbook serve
+```
+
 
 
