@@ -1,6 +1,6 @@
-https://plugins.gitbook.com/browse?q=theme
+[https://plugins.gitbook.com/browse?q=theme](https://plugins.gitbook.com/browse?q=theme)
 
-In the file **book.json**
+Edit the file **book.json**
 
 ```
 {

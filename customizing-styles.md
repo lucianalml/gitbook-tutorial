@@ -1,8 +1,6 @@
 # Customizing Styles
 
-
-
-Edit book.json
+Edit **book.json**
 
 ```
 {
@@ -16,6 +14,4 @@ Edit book.json
 ```
 
 Create a file **styles/website.css** to put the custom styles
-
-
 
