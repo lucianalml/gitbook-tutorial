@@ -4,7 +4,7 @@ There are many ways to create a GitBook. You can easily create it a book online 
 
 ## GitBook.com
 
-To create it from web is very simple, just follow the steps on www.gitbook.com and you'll have a new book published in less than one minute.
+To create it from web is very simple, just follow the steps on [GitBook](https://www.gitbook.com/) and you'll have a new book published in less than one minute.
 
 You can access your git repository url by clicking on the arrow beside edit button. With this url you'll be able to clone this repository and work locally. ![](/assets/gitbook-git-repo.png)
 
@@ -18,17 +18,24 @@ You'll be able to connect to your GitBook account and the editor will import all
 
 ## Gitbook-CLI
 
-Install
+Gitbook-cli is a command line tool to build books. The complete install documentation is available here [https://toolchain.gitbook.com/setup.html](https://toolchain.gitbook.com/setup.html)
 
-[https://toolchain.gitbook.com/setup.html](https://toolchain.gitbook.com/setup.html)
-
-```
-npm install gitbook-cli -g
-```
+The installation is via **NPM**:
 
 ```
-gitbook init
-gitbook serve
+$ npm install gitbook-cli -g
+```
+
+Creating a new book:
+
+```
+$ gitbook init
+```
+
+Serve the book as a website, it will be served on [http://localhost:4000](http://localhost:4000):
+
+```
+$ gitbook serve
 ```
 
 
