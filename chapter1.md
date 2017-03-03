@@ -1,3 +1,19 @@
-# First Chapter
+# Creating the book
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Create with the website
+
+Create locally
+
+https://toolchain.gitbook.com/setup.html
+
+```
+npm install gitbook-cli -g
+```
+
+```
+gitbook init
+gitbook serve
+```
+
+
+
