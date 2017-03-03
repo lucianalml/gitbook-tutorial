@@ -1,10 +1,10 @@
 # Creating the book
 
-Create with the website
+## Create gitbook.com
 
-Create locally
+## Create locally
 
-https://toolchain.gitbook.com/setup.html
+[https://toolchain.gitbook.com/setup.html](https://toolchain.gitbook.com/setup.html)
 
 ```
 npm install gitbook-cli -g

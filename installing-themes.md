@@ -1,6 +1,6 @@
-Create a file
+https://plugins.gitbook.com/browse?q=theme
 
-book.json
+In the file **book.json**
 
 ```
 {

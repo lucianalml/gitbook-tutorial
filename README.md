@@ -1,4 +1,4 @@
 # Gitbook Tutorial
 
-How to create and customize a Gitbook book.
+How to create and customize a Gitbook.
 
