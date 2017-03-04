@@ -1,7 +1,19 @@
 {
-    "plugins": [ 
-        "theme-default"
+    "plugins": [
+        "theme-default",
+        "fontsettings"
     ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        }
+    },
+    
     "styles": {
         "website": "styles/website.css"
     }
