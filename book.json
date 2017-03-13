@@ -1,11 +1,20 @@
 
 {
     "plugins": [
-        "theme-default"
+        "theme-material",
+        "-autotheme",
+        "-fancybox",
+        "-lunr",
+        "-fontsettings",
+        "-sharing",
+        "-search"
     ],
     "pluginsConfig": {
-    },
-    "styles": {
-        "website": "styles/website.css"
+        "theme-material" : {
+            "showLevel" : true,
+            "styles": {
+                "website": "styles/website.css"
+            }
+        }
     }
 }
