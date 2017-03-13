@@ -1,13 +1,13 @@
 
 {
     "plugins": [
-        "theme-material",
         "-autotheme",
         "-fancybox",
         "-lunr",
         "-fontsettings",
         "-sharing",
-        "-search"
+        "-search",
+        "theme-material"
     ],
     "pluginsConfig": {
         "theme-material" : {
